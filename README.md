@@ -8,6 +8,10 @@
 - **Membros:** [Ana Julia Teixeira Candido](https://github.com/anajuliateixeiracandido) e [Marcella Ferreira Chaves Costa](https://github.com/marcellafccosta)
 
 ---
+![lab4_page-0001](https://github.com/user-attachments/assets/832385b1-402e-4036-84e7-595a250c1ee1)
+
+
+
 
 ## 2. Introdução
 
