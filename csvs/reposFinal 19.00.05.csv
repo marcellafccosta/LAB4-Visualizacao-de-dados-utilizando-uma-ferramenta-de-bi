@@ -1,0 +1,201 @@
+repo_name,repo_id,repo_url,login,profile_url,location,country
+freeCodeCamp,28457823,https://github.com/freeCodeCamp/freeCodeCamp,ltegman,https://github.com/ltegman,"Redmond, Washington",United States
+build-your-own-x,132750724,https://github.com/codecrafters-io/build-your-own-x,rohitpaulk,https://github.com/rohitpaulk,San Francisco,United States
+awesome,21737465,https://github.com/sindresorhus/awesome,michelpereira,https://github.com/michelpereira,Brasil,Brazil
+free-programming-books,13491895,https://github.com/EbookFoundation/free-programming-books,MrS4w,https://github.com/MrS4w,Sao Paulo - Brazil,Brazil
+public-apis,54346799,https://github.com/public-apis/public-apis,davemachado,https://github.com/davemachado,United States,United States
+developer-roadmap,85077558,https://github.com/kamranahmedse/developer-roadmap,QAInsights,https://github.com/QAInsights,Ohio,United States
+coding-interview-university,60493101,https://github.com/jwasham/coding-interview-university,tsakishii,https://github.com/tsakishii,"Dusseldorf, Germany",Germany
+system-design-primer,83222441,https://github.com/donnemartin/system-design-primer,CharlesSantiago,https://github.com/CharlesSantiago,Seattle,United States
+996.ICU,177736533,https://github.com/996icu/996.ICU,kevinkassimo,https://github.com/kevinkassimo,Mountain View,United States
+awesome-python,21289110,https://github.com/vinta/awesome-python,JarnoRFB,https://github.com/JarnoRFB,Hanover,Germany
+awesome-selfhosted,36633370,https://github.com/awesome-selfhosted/awesome-selfhosted,worldworm,https://github.com/worldworm,Germany,Germany
+project-based-learning,88011908,https://github.com/practical-tutorials/project-based-learning,sanket2000sonavane,https://github.com/sanket2000sonavane,"pune,India",India
+react,10270250,https://github.com/facebook/react,unstubbable,https://github.com/unstubbable,Germany,Germany
+Python,63476337,https://github.com/TheAlgorithms/Python,Rohanrbharadwaj,https://github.com/Rohanrbharadwaj,"Bangalore, India",India
+vue,11730342,https://github.com/vuejs/vue,dsonet,https://github.com/dsonet,"Fullerton, California",United States
+computer-science,19415064,https://github.com/ossu/computer-science,waciumawanjohi,https://github.com/waciumawanjohi,"New York, NY",United States
+javascript-algorithms,126577260,https://github.com/trekhleb/javascript-algorithms,YaninaTrekhleb,https://github.com/YaninaTrekhleb,"Bay Area, California",United States
+tensorflow,45717250,https://github.com/tensorflow/tensorflow,frgossen,https://github.com/frgossen,New York,United States
+the-book-of-secret-knowledge,138393139,https://github.com/trimstray/the-book-of-secret-knowledge,loweryaustin,https://github.com/loweryaustin,Austin TX,United States
+You-Dont-Know-JS,14440270,https://github.com/getify/You-Dont-Know-JS,imurchie,https://github.com/imurchie,"Brooklyn, New York",United States
+CS-Notes,121395510,https://github.com/CyC2018/CS-Notes,seventheluck,https://github.com/seventheluck,Seattle,United States
+ohmyzsh,291137,https://github.com/ohmyzsh/ohmyzsh,mzuehlke,https://github.com/mzuehlke,"Hamburg, Germany",Germany
+AutoGPT,614765452,https://github.com/Significant-Gravitas/AutoGPT,Wladastic,https://github.com/Wladastic,Germany,Germany
+vscode,41881900,https://github.com/microsoft/vscode,alexr00,https://github.com/alexr00,"Redmond, WA",United States
+bootstrap,2126244,https://github.com/twbs/bootstrap,pvdlg,https://github.com/pvdlg,"New York City, NY",United States
+flutter,31792824,https://github.com/flutter/flutter,mdebbar,https://github.com/mdebbar,"Bay Area, CA",United States
+gitignore,1062897,https://github.com/github/gitignore,ericoporto,https://github.com/ericoporto,Rio de Janeiro,Brazil
+the-art-of-command-line,35955666,https://github.com/jlevy/the-art-of-command-line,niltonvasques,https://github.com/niltonvasques,"Salvador, BA - Brasil",Brazil
+stable-diffusion-webui,527591471,https://github.com/AUTOMATIC1111/stable-diffusion-webui,wfjsw,https://github.com/wfjsw,"Dallas, TX, US",United States
+awesome-go,21540759,https://github.com/avelino/awesome-go,avelino,https://github.com/avelino,Brazil,Brazil
+ollama,658928958,https://github.com/ollama/ollama,eliben,https://github.com/eliben,California,United States
+Microsoft-Activation-Scripts,233472199,https://github.com/massgravel/Microsoft-Activation-Scripts,KomashiFX,https://github.com/KomashiFX,Brasil,Brazil
+JavaGuide,132464395,https://github.com/Snailclimb/JavaGuide,0xPoe,https://github.com/0xPoe,Germany,Germany
+n8n,193215554,https://github.com/n8n-io/n8n,nikhilkuria,https://github.com/nikhilkuria,Germany,Germany
+transformers,155220641,https://github.com/huggingface/transformers,sshleifer,https://github.com/sshleifer,New York,United States
+javascript,6498492,https://github.com/airbnb/javascript,ljharb,https://github.com/ljharb,"Hillsborough, CA",United States
+youtube-dl,1039520,https://github.com/ytdl-org/youtube-dl,phihag,https://github.com/phihag,Germany,Germany
+langflow,599320067,https://github.com/langflow-ai/langflow,mendonk,https://github.com/mendonk,"Brooklyn, NY",United States
+awesome-chatgpt-prompts,574523116,https://github.com/f/awesome-chatgpt-prompts,rajudandigam,https://github.com/rajudandigam,San Jose,United States
+next.js,70107786,https://github.com/vercel/next.js,wbinnssmith,https://github.com/wbinnssmith,"Bay Area, CA",United States
+yt-dlp,307260205,https://github.com/yt-dlp/yt-dlp,blackjack4494,https://github.com/blackjack4494,"Hamburg/Bremen, Germany",Germany
+tech-interview-handbook,62607227,https://github.com/yangshun/tech-interview-handbook,sai-manoj-kumar,https://github.com/sai-manoj-kumar,India,India
+go,23096959,https://github.com/golang/go,adonovan,https://github.com/adonovan,"Brooklyn, NY",United States
+scrcpy,111583593,https://github.com/Genymobile/scrcpy,Firq-ow,https://github.com/Firq-ow,Germany,Germany
+fucking-algorithm,241576270,https://github.com/labuladong/fucking-algorithm,lixiandea,https://github.com/lixiandea,美国,United States
+30-seconds-of-code,112507086,https://github.com/Chalarangelo/30-seconds-of-code,felipe-ssilva,https://github.com/felipe-ssilva,"São Paulo, Brasil",Brazil
+PowerToys,184456251,https://github.com/microsoft/PowerToys,CleanCodeDeveloper,https://github.com/CleanCodeDeveloper,Germany,Germany
+react-native,29028775,https://github.com/facebook/react-native,rickhanlonii,https://github.com/rickhanlonii,EST. AKRON,Estados Unidos
+electron,9384267,https://github.com/electron/electron,VerteDinde,https://github.com/VerteDinde,"Portland, OR",United States
+langchain,552661142,https://github.com/langchain-ai/langchain,mdrxy,https://github.com/mdrxy,"Cambridge, Massachusetts",United States
+kubernetes,20580498,https://github.com/kubernetes/kubernetes,pohly,https://github.com/pohly,Germany,Germany
+hello-algo,561730219,https://github.com/krahets/hello-algo,SamJin98,https://github.com/SamJin98,"San Francisco Bay Area, California",United States
+dify,626805178,https://github.com/langgenius/dify,jubinsoni,https://github.com/jubinsoni,Bengaluru,India
+free-programming-books-zh_CN,14098069,https://github.com/justjavac/free-programming-books-zh_CN,Cedaric,https://github.com/Cedaric,Forest City,United States
+free-for-dev,32484381,https://github.com/ripienaar/free-for-dev,sanarena,https://github.com/sanarena,Germany,Germany
+node,27193779,https://github.com/nodejs/node,addaleax,https://github.com/addaleax,Germany,Germany
+open-webui,701547123,https://github.com/open-webui/open-webui,ThatOneCalculator,https://github.com/ThatOneCalculator,Los Angeles,United States
+d3,943149,https://github.com/d3/d3,notlion,https://github.com/notlion,San Francisco,United States
+excalidraw,231283452,https://github.com/excalidraw/excalidraw,mvaibhav77,https://github.com/mvaibhav77,"Durg, Chhattisgarh, India",India
+three.js,576201,https://github.com/mrdoob/three.js,donmccurdy,https://github.com/donmccurdy,"Brooklyn, NY",United States
+axios,23088740,https://github.com/axios/axios,felipewmartins,https://github.com/felipewmartins,Fortaleza - Brasil,Brazil
+rust,724712,https://github.com/rust-lang/rust,llogiq,https://github.com/llogiq,Germany,Germany
+TypeScript,20929025,https://github.com/microsoft/TypeScript,billti,https://github.com/billti,Seattle,United States
+deno,133442384,https://github.com/denoland/deno,jbronder,https://github.com/jbronder,"Seattle, WA",United States
+nodebestpractices,103633984,https://github.com/goldbergyoni/nodebestpractices,BrunoScheufler,https://github.com/BrunoScheufler,"Munich, Germany",Germany
+create-react-app,63537249,https://github.com/facebook/create-react-app,jeffposnick,https://github.com/jeffposnick,"Brooklyn, NY",United States
+godot,15634981,https://github.com/godotengine/godot,vnen,https://github.com/vnen,São Paulo - Brazil,Brazil
+rustdesk,299354207,https://github.com/rustdesk/rustdesk,Mr-Update,https://github.com/Mr-Update,Germany,Germany
+generative-ai-for-beginners,655806940,https://github.com/microsoft/generative-ai-for-beginners,glaucia86,https://github.com/glaucia86,Rio de Janeiro,Brazil
+terminal,100060912,https://github.com/microsoft/terminal,german-one,https://github.com/german-one,Germany,Germany
+frp,48378947,https://github.com/fatedier/frp,velovix,https://github.com/velovix,"Oakland, CA",United States
+DeepSeek-V3,908531752,https://github.com/deepseek-ai/DeepSeek-V3,zhyncs,https://github.com/zhyncs,"Bay Area, CA",United States
+Awesome-Hacking,55076063,https://github.com/Hack-with-Github/Awesome-Hacking,sandrogauci,https://github.com/sandrogauci,"Bavaria, Germany",Germany
+papers-we-love,15204860,https://github.com/papers-we-love/papers-we-love,sthornington,https://github.com/sthornington,New York,United States
+angular,24195339,https://github.com/angular/angular,alxhub,https://github.com/alxhub,"San Francisco, CA",United States
+ui,585146387,https://github.com/shadcn-ui/ui,Jacksonmills,https://github.com/Jacksonmills,"Chicago, IL",United States
+tauri,196701619,https://github.com/tauri-apps/tauri,naman-crabnebula,https://github.com/naman-crabnebula,India,India
+iptv,157616880,https://github.com/iptv-org/iptv,zcraber,https://github.com/zcraber,Kerala,India
+material-ui,23083156,https://github.com/mui/material-ui,Zadielerick,https://github.com/Zadielerick,"Dallas, TX",United States
+ant-design,34526884,https://github.com/ant-design/ant-design,0xPoe,https://github.com/0xPoe,Germany,Germany
+HowToCook,243950408,https://github.com/Anduin2017/HowToCook,RoManInv,https://github.com/RoManInv,"Berlin, Germany",Germany
+thefuck,33614304,https://github.com/nvbn/thefuck,scorphus,https://github.com/scorphus,"Munich, Bavaria, Germany",Germany
+pytorch,65600975,https://github.com/pytorch/pytorch,jerryzh168,https://github.com/jerryzh168,Menlo Park,United States
+clean-code-javascript,74791366,https://github.com/ryanmcdermott/clean-code-javascript,andrejewski,https://github.com/andrejewski,San Francisco,United States
+every-programmer-should-know,101296881,https://github.com/mtdvio/every-programmer-should-know,mellowdevs,https://github.com/mellowdevs,"Würzburg, Bavaria, DE",Germany
+neovim,16408992,https://github.com/neovim/neovim,wookayin,https://github.com/wookayin,"New York, NY",United States
+system-prompts-and-models-of-ai-tools,943398999,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,techlism,https://github.com/techlism,India,India
+java-design-patterns,22790488,https://github.com/iluwatar/java-design-patterns,gopinath-langote,https://github.com/gopinath-langote,"Bangalore, India",India
+puppeteer,90796663,https://github.com/puppeteer/puppeteer,yury-s,https://github.com/yury-s,"Mountain View, CA",United States
+Web-Dev-For-Beginners,311525798,https://github.com/microsoft/Web-Dev-For-Beginners,jlooper,https://github.com/jlooper,Boston,United States
+ComfyUI,589831718,https://github.com/comfyanonymous/ComfyUI,huchenlei,https://github.com/huchenlei,New York,United States
+awesome-mac,63539055,https://github.com/jaywcjlove/awesome-mac,S1ngS1ng,https://github.com/S1ngS1ng,"Union City, CA",United States
+DeepSeek-R1,919443098,https://github.com/deepseek-ai/DeepSeek-R1,aBurmeseDev,https://github.com/aBurmeseDev,"Irvine, CA",United States
+fastapi,160919119,https://github.com/fastapi/fastapi,mariacamilagl,https://github.com/mariacamilagl,"Berlin, Germany",Germany
+tailwindcss,106017343,https://github.com/tailwindlabs/tailwindcss,MattStypa,https://github.com/MattStypa,"Chicago, IL",United States
+supabase,214587193,https://github.com/supabase/supabase,olirice,https://github.com/olirice,USA,United States
+vue-element-admin,88464704,https://github.com/PanJiaChen/vue-element-admin,ntnyq,https://github.com/ntnyq,[Object Location],United States
+whisper,537603333,https://github.com/openai/whisper,ldanilov,https://github.com/ldanilov,United States,United States
+v2rayN,199570071,https://github.com/2dust/v2rayN,EdiWang,https://github.com/EdiWang,United States,United States
+nvm,612230,https://github.com/nvm-sh/nvm,xcambar,https://github.com/xcambar,Berlin,Germany
+llama.cpp,612354784,https://github.com/ggml-org/llama.cpp,cebtenzzre,https://github.com/cebtenzzre,New York City,United States
+storybook,54173593,https://github.com/storybookjs/storybook,jamesgeorge007,https://github.com/jamesgeorge007,"Kottayam, Kerala, India",India
+app-ideas,172562475,https://github.com/florinpop17/app-ideas,SkyTreasure,https://github.com/SkyTreasure,Bangalore,India
+gin,20904437,https://github.com/gin-gonic/gin,ItalyPaleAle,https://github.com/ItalyPaleAle,"Seattle, WA",United States
+bitcoin,1181927,https://github.com/bitcoin/bitcoin,dongcarl,https://github.com/dongcarl,New York,United States
+NextChat,612344730,https://github.com/ChatGPTNextWeb/NextChat,tscherrie,https://github.com/tscherrie,Munich Germany,Germany
+django,4164482,https://github.com/django/django,jacobtylerwalls,https://github.com/jacobtylerwalls,"Brooklyn, NY",United States
+opencv,5108051,https://github.com/opencv/opencv,YashasSamaga,https://github.com/YashasSamaga,Seattle,United States
+svelte,74293321,https://github.com/sveltejs/svelte,btakita,https://github.com/btakita,"Bedford, NH",United States
+hugo,11180687,https://github.com/gohugoio/hugo,niklasfasching,https://github.com/niklasfasching,Berlin,Germany
+mermaid,26066727,https://github.com/mermaid-js/mermaid,tylerlong,https://github.com/tylerlong,"Belmont, CA, United States",United States
+markitdown,888092115,https://github.com/microsoft/markitdown,Josh-XT,https://github.com/Josh-XT,Ohio,United States
+bun,357728969,https://github.com/oven-sh/bun,mangs,https://github.com/mangs,"New York, NY",United States
+manim,32689863,https://github.com/3b1b/manim,naveen521kk,https://github.com/naveen521kk,India,India
+gemini-cli,968197216,https://github.com/google-gemini/gemini-cli,richieforeman,https://github.com/richieforeman,"Astoria, NY",United States
+FiraCode,26500787,https://github.com/tonsky/FiraCode,tonsky,https://github.com/tonsky,"Berlin, Germany",Germany
+clash-verge-rev,721767116,https://github.com/clash-verge-rev/clash-verge-rev,solancer,https://github.com/solancer,Bangalore,India
+devops-exercises,212639071,https://github.com/bregman-arie/devops-exercises,susenj,https://github.com/susenj,"Bengaluru, IN",India
+awesome-for-beginners,44882201,https://github.com/MunGell/awesome-for-beginners,nedbat,https://github.com/nedbat,Boston,United States
+spring-boot,6296790,https://github.com/spring-projects/spring-boot,mhalbritter,https://github.com/mhalbritter,"Ingolstadt, Germany",Germany
+playwright,221981891,https://github.com/microsoft/playwright,Skn0tt,https://github.com/Skn0tt,Berlin,Germany
+advanced-java,151834062,https://github.com/doocs/advanced-java,ImgBotApp,https://github.com/ImgBotApp,Seattle,United States
+ML-For-Beginners,343965132,https://github.com/microsoft/ML-For-Beginners,girliemac,https://github.com/girliemac,"Honolulu, HI",United States
+awesome-interview-questions,47018239,https://github.com/DopplerHQ/awesome-interview-questions,khomchyk,https://github.com/khomchyk,"Berlin, Germany",Germany
+weekly,152870372,https://github.com/ruanyf/weekly,mddanishyusuf,https://github.com/mddanishyusuf,India,India
+models,51117837,https://github.com/tensorflow/models,vishnubanna,https://github.com/vishnubanna,"San Jose, California",United States
+system-design-101,693342566,https://github.com/ByteByteGoHq/system-design-101,fmajorcminor,https://github.com/fmajorcminor,"Salt Lake City, UT",United States
+uptime-kuma,382496361,https://github.com/louislam/uptime-kuma,jensneuber,https://github.com/jensneuber,"Cologne, Germany",Germany
+syncthing,14712850,https://github.com/syncthing/syncthing,Stefan-Code,https://github.com/Stefan-Code,Germany,Germany
+gpt4all,619959033,https://github.com/nomic-ai/gpt4all,mcembalest,https://github.com/mcembalest,"Brooklyn, NY",United States
+LLMs-from-scratch,669879380,https://github.com/rasbt/LLMs-from-scratch,d-kleine,https://github.com/d-kleine,"Berlin, Germany",Germany
+github-readme-stats,278335273,https://github.com/anuraghazra/github-readme-stats,RSGameTech,https://github.com/RSGameTech,"Noida, India",India
+netdata,10744183,https://github.com/netdata/netdata,lets00,https://github.com/lets00,Brazil - Garanhuns - PE,Brazil
+LeetCodeAnimation,160640094,https://github.com/MisterBooo/LeetCodeAnimation,peteryuhang,https://github.com/peteryuhang,"San Jose, CA",United States
+hoppscotch,203587744,https://github.com/hoppscotch/hoppscotch,nityanandagohain,https://github.com/nityanandagohain,Bengaluru / Assam,India
+vite,257485422,https://github.com/vitejs/vite,aleclarson,https://github.com/aleclarson,Southwest Florida,United States
+Font-Awesome,3470471,https://github.com/FortAwesome/Font-Awesome,robmadole,https://github.com/robmadole,"Oronogo, Missouri",United States
+elasticsearch,507775,https://github.com/elastic/elasticsearch,rjernst,https://github.com/rjernst,California,United States
+json-server,14747598,https://github.com/typicode/json-server,DanielRuf,https://github.com/DanielRuf,Germany,Germany
+fzf,13807606,https://github.com/junegunn/fzf,charlievieth,https://github.com/charlievieth,"New York, NY",United States
+union,641656392,https://github.com/unionlabs/union,loveneeshdhir,https://github.com/loveneeshdhir,New Delhi,India
+code-server,172953845,https://github.com/coder/code-server,Merith-TK,https://github.com/Merith-TK,"Tacoma Washington, United States",United States
+Best-websites-a-programmer-should-visit,83999700,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,Eaglesight02,https://github.com/Eaglesight02,Visakhapatnam,India
+Deep-Live-Cam,695864515,https://github.com/hacksider/Deep-Live-Cam,barongello,https://github.com/barongello,Brazil,Brazil
+awesome-llm-apps,793375104,https://github.com/Shubhamsaboo/awesome-llm-apps,Sakalya100,https://github.com/Sakalya100,"Kolkata, West Bengal, India",India
+awesome-mcp-servers,896335270,https://github.com/punkpeye/awesome-mcp-servers,punkpeye,https://github.com/punkpeye,"Miami, FL",United States
+d2l-zh,101138315,https://github.com/d2l-ai/d2l-zh,mli,https://github.com/mli,"Palo Alto, CA",United States
+awesome-vue,44571718,https://github.com/vuejs/awesome-vue,Vaibhav-Yadav-1998,https://github.com/Vaibhav-Yadav-1998,India,India
+nest,80945428,https://github.com/nestjs/nest,cschroeter,https://github.com/cschroeter,"Landau, Germany",Germany
+browser-use,881458615,https://github.com/browser-use/browser-use,pirate,https://github.com/pirate,"Oakland, California",United States
+stable-diffusion,523379232,https://github.com/CompVis/stable-diffusion,rromb,https://github.com/rromb,Black Forest,Germany
+Front-End-Checklist,107111421,https://github.com/thedaviddias/Front-End-Checklist,YashAndonia,https://github.com/YashAndonia,San Francisco,United States
+Ventoy,246335987,https://github.com/ventoy/Ventoy,obezuk,https://github.com/obezuk,San Francisco,United States
+redis,156018,https://github.com/redis/redis,michael-grunder,https://github.com/michael-grunder,"Seattle, WA",United States
+servers,890668799,https://github.com/modelcontextprotocol/servers,AjayKumbham,https://github.com/AjayKumbham,"Hyderabad, India",India
+PayloadsAllTheThings,71220757,https://github.com/swisskyrepo/PayloadsAllTheThings,mschader,https://github.com/mschader,Darmstadt,Germany
+uv,699532645,https://github.com/astral-sh/uv,RazerM,https://github.com/RazerM,"Darmstadt, Germany",Germany
+screenshot-to-code,718741813,https://github.com/abi/screenshot-to-code,abi,https://github.com/abi,San Francisco,United States
+moby,7691631,https://github.com/moby/moby,anusha-ragunathan,https://github.com/anusha-ragunathan,San Francisco,United States
+flask,596892,https://github.com/pallets/flask,homeworkprod,https://github.com/homeworkprod,Germany,Germany
+grafana,15111821,https://github.com/grafana/grafana,svenklemm,https://github.com/svenklemm,"Dresden, Germany",Germany
+tesseract,22887094,https://github.com/tesseract-ocr/tesseract,stweil,https://github.com/stweil,"Mannheim, Germany",Germany
+awesome-react,22670857,https://github.com/enaqx/awesome-react,thelordoftheboards,https://github.com/thelordoftheboards,Los Angeles,United States
+awesome-machine-learning,21872392,https://github.com/josephmisiti/awesome-machine-learning,tsabsch,https://github.com/tsabsch,Münster,Germany
+strapi,43441403,https://github.com/strapi/strapi,oritwoen,https://github.com/oritwoen,not set,India
+cs-video-courses,71583602,https://github.com/Developer-Y/cs-video-courses,JZZQuant,https://github.com/JZZQuant,India,India
+awesome-public-datasets,26898879,https://github.com/awesomedata/awesome-public-datasets,olivetreee,https://github.com/olivetreee,US,United States
+sherlock,162998479,https://github.com/sherlock-project/sherlock,sweezyio,https://github.com/sweezyio,Atlanta,United States
+reveal.js,1861458,https://github.com/hakimel/reveal.js,telliott22,https://github.com/telliott22,"Berlin, Germany",Germany
+cpython,81598961,https://github.com/python/cpython,rhettinger,https://github.com/rhettinger,"Santa Clara, California",United States
+localsend,578822531,https://github.com/localsend/localsend,Tienisto,https://github.com/Tienisto,"Berlin, Germany",Germany
+protobuf,23357588,https://github.com/protocolbuffers/protobuf,JasonLunn,https://github.com/JasonLunn,"New York, NY",United States
+Stirling-PDF,594155488,https://github.com/Stirling-Tools/Stirling-PDF,boredsquirrel,https://github.com/boredsquirrel,Germany,Germany
+swift,44838949,https://github.com/swiftlang/swift,kavon,https://github.com/kavon,"San Francisco, CA",United States
+imgui,22067521,https://github.com/ocornut/imgui,bkaradzic,https://github.com/bkaradzic,"Los Angeles, CA",United States
+openai-cookbook,468576060,https://github.com/openai/openai-cookbook,alwell-kevin,https://github.com/alwell-kevin,New York City,United States
+superset,39464018,https://github.com/apache/superset,kristw,https://github.com/kristw,"San Francisco, CA",United States
+node,596115135,https://github.com/base/node,0x00101010,https://github.com/0x00101010,"Sunnyvale, CA",United States
+zed,340547520,https://github.com/zed-industries/zed,cole-miller,https://github.com/cole-miller,Philadelphia,United States
+cs-self-learning,419347358,https://github.com/PKUFlyingPig/cs-self-learning,ZhiyuanMa2017,https://github.com/ZhiyuanMa2017,United States,United States
+express,237159,https://github.com/expressjs/express,jonathanong,https://github.com/jonathanong,"Orange County, CA",United States
+obs-studio,13233158,https://github.com/obsproject/obs-studio,tt2468,https://github.com/tt2468,Southern California,United States
+the-algorithm,619859161,https://github.com/twitter/the-algorithm,dzhao,https://github.com/dzhao,San Francisco,United States
+caddy,29207621,https://github.com/caddyserver/caddy,zaquestion,https://github.com/zaquestion,"Seattle, WA",United States
+awesome-cpp,21935031,https://github.com/fffaraz/awesome-cpp,betajippity,https://github.com/betajippity,"Burbank, CA",United States
+lobe-chat,643445235,https://github.com/lobehub/lobe-chat,mamachanko,https://github.com/mamachanko,"Berlin, Germany",Germany
+tabby,77213120,https://github.com/Eugeny/tabby,Eugeny,https://github.com/Eugeny,"Düsseldorf, DE",Germany
+ansible,3638964,https://github.com/ansible/ansible,ryansb,https://github.com/ryansb,"Buffalo, NY",United States
+lazygit,134017286,https://github.com/jesseduffield/lazygit,stefanhaller,https://github.com/stefanhaller,"Berlin, Germany",Germany
+Chart.js,8843683,https://github.com/chartjs/Chart.js,tannerlinsley,https://github.com/tannerlinsley,Utah,United States
+ragflow,730534580,https://github.com/infiniflow/ragflow,Omarlsg98,https://github.com/Omarlsg98,United States,United States
+act,163883279,https://github.com/nektos/act,Mearman,https://github.com/Mearman,"near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, Wales, UK",United States
+SecLists,3482588,https://github.com/danielmiessler/SecLists,jhaddix,https://github.com/jhaddix,United States,United States
+awesome-scalability,115478820,https://github.com/binhnguyennus/awesome-scalability,techyrajeev,https://github.com/techyrajeev,India,India
+AppFlowy,377496562,https://github.com/AppFlowy-IO/AppFlowy,Aquitano,https://github.com/Aquitano,Germany,Germany
+33-js-concepts,147350463,https://github.com/leonardomso/33-js-concepts,aniketkudale,https://github.com/aniketkudale,"Pune, India",India
+webpack,3678731,https://github.com/webpack/webpack,rtsao,https://github.com/rtsao,"San Francisco, USA",United States
+Prompt-Engineering-Guide,579082810,https://github.com/dair-ai/Prompt-Engineering-Guide,viniciusf-dev,https://github.com/viniciusf-dev,Brazil,Brazil
+gpt4free,620936652,https://github.com/xtekky/gpt4free,sudouser777,https://github.com/sudouser777,India,India
+firecrawl,787076358,https://github.com/firecrawl/firecrawl,pulbyte,https://github.com/pulbyte,India,India
