@@ -24,6 +24,8 @@ No mercado tradicional de tecnologia, a subvalorização de desenvolvedores de p
 A literatura sugere que, mesmo quando desenvolvedores de Brasil e Índia apresentam desempenho e engajamento comparáveis aos de países desenvolvidos, sua atuação tende a se concentrar em tarefas periféricas, com acesso restrito a funções centrais de coordenação e decisão (Rastogi et al., 2018; Nadri et al., 2021). Tais dinâmicas levantam questões sobre a existência de barreiras estruturais e vieses geográficos que limitam o reconhecimento formal desses profissionais, mesmo em um ambiente supostamente aberto e meritocrático como o GitHub.
 
 Diante desse contexto, torna-se fundamental investigar, de forma quantitativa e objetiva, se a centralidade e a importância estrutural de desenvolvedores de países emergentes nas redes de colaboração OSS se traduzem em reconhecimento formal e oportunidades de liderança. Ao combinar métricas de desempenho, análise de redes sociais e modelagem estatística, este trabalho busca lançar luz sobre os mecanismos de valorização (ou subvalorização) desses profissionais no cenário global do software livre.
+
+
 ---
 
 
