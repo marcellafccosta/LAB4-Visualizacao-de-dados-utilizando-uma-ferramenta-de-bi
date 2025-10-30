@@ -25,7 +25,5 @@ A literatura sugere que, mesmo quando desenvolvedores de Brasil e Índia apresen
 
 Diante desse contexto, torna-se fundamental investigar, de forma quantitativa e objetiva, se a centralidade e a importância estrutural de desenvolvedores de países emergentes nas redes de colaboração OSS se traduzem em reconhecimento formal e oportunidades de liderança. Ao combinar métricas de desempenho, análise de redes sociais e modelagem estatística, este trabalho busca lançar luz sobre os mecanismos de valorização (ou subvalorização) desses profissionais no cenário global do software livre.
 ---
-## Dashboard
-![Cópia_de_lab4_page-0001](https://github.com/user-attachments/assets/36f1d0db-e4b0-4c9f-bdfd-3283e07e8dd1)
 
 
